@@ -60,7 +60,7 @@ These results illustrate typical challenges in clinical trial analysis and decis
 
 ## Shiny Dashboard
 
-![Shiny App](report/shiny_dashboard.png)
+![Shiny App](report/shiny_dashboard.jpeg)
 
 ---
 
