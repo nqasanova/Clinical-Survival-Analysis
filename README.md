@@ -65,11 +65,15 @@ These results illustrate typical challenges in clinical trial analysis and decis
 ---
 
 ## Project Structure
-- data/ # Simulated survival dataset
-- R/ # Analysis scripts
-- report/ # Figures and outputs
-- app/ # Shiny dashboard
-- README.md
+```
+Clinical Survival Analysis
+│
+├── data/ # Simulated survival dataset
+├── R/ # Analysis scripts
+├── report/ # Figures and outputs
+├── app/ # Shiny dashboard
+├── README.md
+```
 
 ## Reproducibility
 
